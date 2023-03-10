@@ -1,4 +1,4 @@
-/* @media screen and (min-width: 320px) {
+@media screen and (min-width: 320px) {
     .content-boxes{
         flex-direction: column;
     }
@@ -46,6 +46,8 @@
     }
     .span{
         flex-direction: column;
+        font-size: 28px;
+        margin-left: -10em;
     }
     .box-1 .button button{
         width: 10em;
@@ -77,6 +79,7 @@
     }
     .img p{
         font-size: 3em;
+        margin-left: 2.5em;
     }
     .img button{
         width: 10em;
@@ -85,4 +88,4 @@
         margin-bottom: 2em;
         margin-left: 15em;
     } 
-} */
+}

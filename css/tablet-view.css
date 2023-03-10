@@ -1,0 +1,33 @@
+@media screen and (min-width: 481px) {
+    .subhead-tag{
+        margin-left: 10em;
+    }
+    .headline{
+        margin-left: 20em;
+    }
+    .box-1, .box-2, .box-3{
+        margin-left: 15em;
+    }
+    .span{
+        margin-left: 10em;
+    }
+    span, .strong{
+        font-size: 50px;
+        font-style: oblique;
+    }
+    .text p{
+        font-size: 50px;
+    }
+    .blog-h3, .blog-p{
+        margin-left: 5em;
+    }
+    .img img{
+        margin-left: 20em;
+    }
+    .img p{
+        margin-left: 8em;
+    }
+    .img button{
+        margin-left: 18em;
+    }
+}
