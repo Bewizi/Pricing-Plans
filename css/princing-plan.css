@@ -6,7 +6,7 @@
 body{
     min-height: 100vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background: #f8cfe0;
+    /* background: #f8cfe0; */
 }
 .subhead-tag{
     margin-top: 5em;
@@ -42,7 +42,7 @@ body{
 .box-1{
     width: 300px;
     min-height: 525px;
-    background-color: #f8f9fa;
+    background-color: #E3E3E3;
     border-radius: 15px;
     margin-left: 1em;
 
@@ -98,7 +98,7 @@ body{
 .box-2{
     width: 300px;
     min-height: 525px;
-    background-color: #f8f9fa;
+    background-color: #E3E3E3;
     border-radius: 15px;
     margin-left: 1em;
 }
@@ -151,7 +151,7 @@ body{
 .box-3{
     width: 300px;
     min-height: 525px;
-    background-color: #f8f9fa;
+    background-color: #E3E3E3;
     border-radius: 15px;
     margin-left: 1em;
 }
