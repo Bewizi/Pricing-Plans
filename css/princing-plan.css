@@ -86,11 +86,13 @@ body{
     background-color: #6f42c1;
     color: #fff;
     border: none;
+    transition: transform 1s;
 }
 
 .box-1 .button button:hover{
     cursor: pointer;
     background-color: #e83e8c;
+    transform: scale(1.5);
 }
 /* end of box-1 */
 
@@ -140,11 +142,13 @@ body{
     background-color: #6f42c1;
     color: #fff;
     border: none;
+    transition: transform 1s;
 }
 
 .box-2 .button button:hover{
     cursor: pointer;
     background-color: #e83e8c;
+    transform: scale(1.5);
 }
 /* end of box-2 */
 
@@ -192,11 +196,13 @@ body{
     background-color: #6f42c1;
     color: #fff;
     border: none;
+    transition: transform 2s 1s linear;
 }
 
 .box-3 .button button:hover{
     cursor: pointer;
     background-color: #e83e8c;
+    transform: scale(1.5);
 }
 /* end of box-3 */
 
@@ -226,6 +232,11 @@ body{
 }
 .achievement img{
     padding-top: 2em;
+    cursor: pointer;
+    transition: transform 1s;
+}
+.achievement img:hover{
+    transform: scale(1.5);
 }
 /* end of achievement */
 
