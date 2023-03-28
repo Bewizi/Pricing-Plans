@@ -86,7 +86,7 @@ body{
     background-color: #6f42c1;
     color: #fff;
     border: none;
-    transition: transform 1s;
+    transition: transform 2s 1s ease-in;
 }
 
 .box-1 .button button:hover{
@@ -142,7 +142,7 @@ body{
     background-color: #6f42c1;
     color: #fff;
     border: none;
-    transition: transform 1s;
+    transition: transform 1s 2s ease-out;
 }
 
 .box-2 .button button:hover{
